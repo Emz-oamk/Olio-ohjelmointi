@@ -16,5 +16,4 @@ int main()
 
 void retSum(int x,int y){
     cout << "Lukujen jako on " << x/y << endl;
-
 }
